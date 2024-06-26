@@ -24,7 +24,7 @@ Network Range Pinger is a C++ tool designed to ping a specified range of IP addr
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/network-range-pinger.git
+    git clone https://github.com/ReneCaspari/network-range-pinger.git
     cd network-range-pinger
     ```
 
