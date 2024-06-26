@@ -68,15 +68,15 @@ Network Range Pinger is a C++ tool designed to ping a specified range of IP addr
 
 ### Example Output
 
+```plaintext
 Enter the range name to ping: Range1
 +------------------+----------------------+-----------------------+-------------------------+
-| IP Address | Time (ms) | MAC Address | Manufacturer |
+| IP Address       | Time (ms)            | MAC Address           | Manufacturer            |
 +------------------+----------------------+-----------------------+-------------------------+
-| 192.168.0.1 | 5 | 3a-fb-65-98-ed-30 | Apple |
-| 192.168.0.2 | 10 | 00-1A-79-4B-11-8D | Dell |
+| 192.168.0.1      | 5                    | 3a-fb-65-98-ed-30     | Apple                   |
+| 192.168.0.2      | 10                   | 00-1A-79-4B-11-8D     | Dell                    |
 +------------------+----------------------+-----------------------+-------------------------+
-
-
+```
 
 ## Contributing
 
