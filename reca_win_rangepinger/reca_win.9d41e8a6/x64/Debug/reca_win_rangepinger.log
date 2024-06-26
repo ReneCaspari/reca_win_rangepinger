@@ -1,0 +1,4 @@
+﻿  reca_win_rangepinger.cpp
+C:\Users\rene\source\repos\reca_win_rangepinger\reca_win_rangepinger\reca_win_rangepinger.cpp(102,24): warning C4101: "sa": Unreferenzierte lokale Variable
+C:\Users\rene\source\repos\reca_win_rangepinger\reca_win_rangepinger\reca_win_rangepinger.cpp(148,24): warning C4101: "sa": Unreferenzierte lokale Variable
+  reca_win_rangepinger.vcxproj -> C:\Users\rene\source\repos\reca_win_rangepinger\reca_win_rangepinger\x64\Debug\reca_win_rangepinger.exe
